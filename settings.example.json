@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "npm:@gotgenes/pi-permission-system"
+  ],
+  "skills": [],
+  "defaultProvider": "<your-provider>",
+  "defaultModel": "<your-model>",
+  "defaultThinkingLevel": "low"
+}
